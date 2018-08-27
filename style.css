@@ -92,7 +92,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .btn {
-    width: 110px;
+    width: 90px;
     border-radius: 20px;
     background: #307df0;
     color: #fff;
@@ -101,7 +101,7 @@ input[type=number]::-webkit-outer-spin-button {
     letter-spacing: .54px;
     text-transform: uppercase;
     margin-top: 1em;
-    padding: 17px 20px 10px 20px;
+    padding: 12px 20px 10px 20px;
     display: inline-block;
     text-decoration: none !important;
     cursor: pointer;
